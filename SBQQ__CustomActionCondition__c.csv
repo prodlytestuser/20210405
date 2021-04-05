@@ -1,0 +1,4 @@
+"Guid","CurrencyIsoCode","Name","SBQQ__CustomAction__c","SBQQ__Field__c","SBQQ__FilterValue__c","SBQQ__Operator__c","SBQQ__TargetObject__c"
+4ec92ac5-d67b-46fa-b225-3feb885fc716,USD,test,15900800-f8b8-4ec7-91ba-d6fc41acf462,"#N/A","#N/A","#N/A","#N/A"
+5df5c49e-0853-4f34-84d1-adf400f7e77f,USD,Customer Quote,3bdb581c-f0f9-4a56-ae1b-fb9e4a152a05,SBQQ__Type__c,Customer Quote,not equals,Quote
+b8d56b63-6431-4e90-a450-e9691cf5446f,USD,Customer Quote,51de6f04-cef5-47fb-8a0f-6f220d2123ec,SBQQ__Type__c,Customer Quote,not equals,Quote

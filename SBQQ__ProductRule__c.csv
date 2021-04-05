@@ -1,0 +1,42 @@
+"Guid","CurrencyIsoCode","Name","SBQQ__Active__c","SBQQ__AdvancedCondition__c","SBQQ__ConditionsMet__c","SBQQ__ErrorMessage__c","SBQQ__EvaluationEvent__c","SBQQ__EvaluationOrder__c","SBQQ__LookupMessageField__c","SBQQ__LookupObject__c","SBQQ__LookupProductField__c","SBQQ__LookupRequiredField__c","SBQQ__LookupTypeField__c","SBQQ__Scope__c","SBQQ__Type__c"
+00ec9d13-ade0-47ab-b0a1-0ce3d50bab48,USD,U's Greater than Allowed (6),true,"#N/A",All,Total U's greater than selected Base U amount. 6,Always,1.0,"#N/A","#N/A","#N/A","#N/A","#N/A",Product,Validation
+050fc4a2-3d1c-42aa-a920-b6582d78764c,USD,PowerSlide Configuration - Security,true,"#N/A",All,"#N/A",Always,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Product,Selection
+0c0eeb0c-ef6a-48c4-b447-335577cd33e1,USD,U's Less than Allowed (8),true,"#N/A",All,You left some U's empty. Proceed?,Always,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Product,Alert
+0fb13ace-6950-4c1a-84eb-edca50b5abd4,USD,Show L5-20 Cables,true,"#N/A",All,"#N/A",Always,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Product,Selection
+120a5180-15bd-4f7e-9496-422b284707a5,USD,Show VirusScan Scan Enterprise for Mac,true,"#N/A",All,"#N/A",Always,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Product,Selection
+15017ea3-b661-4b44-a33a-b4c4f4b04594,USD,Hide Linux VirusScan,true,"#N/A",All,"#N/A",Always,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Product,Selection
+1608205a-bf94-4d22-8c3c-2b414af67c19,USD,Show VirusScan Scan Enterprise for Storage,true,"#N/A",All,"#N/A",Always,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Product,Selection
+160eadea-9e1c-49db-996f-e9a531976415,USD,Show Reporting Products when Reporting License Count Greater than 0,true,"#N/A",All,"#N/A",Always,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Product,Selection
+1e8314fc-1c90-4d04-86d6-933aba5030f3,USD,Windows Server Select Soft Maint,true,"#N/A",All,"#N/A",Always,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Product,Selection
+2b149a49-fb0a-42e5-af84-80c17ba06eb8,USD,Hide Maintenance,true,"#N/A",All,"#N/A",Always,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Product,Selection
+375d33c0-d216-4221-9880-29aeda114a9e,USD,Make sure software is sold when software maintenance is sold,true,"#N/A",All,Must have software selected in order to purchase software maintenance.,Always,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Product,Validation
+4128905b-85d1-4d01-b8a6-6aa53b74701a,USD,Minimum Devices,true,"#N/A",All,Minimum of 200 Protected Devices required for Complete Threat Solution,Always,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Product,Validation
+44f93b99-c294-4c1e-926f-577737c79d74,USD,Configure Rack Server based on Security Config Type,true,"#N/A",All,"#N/A",Always,1.0,"#N/A","#N/A","#N/A","#N/A","#N/A",Product,Selection
+48809723-7851-4645-8606-66bc26ff164c,USD,U's Less than Allowed (6),true,"#N/A",All,You left some U's empty. Proceed?,Always,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Product,Alert
+4e0af176-e433-46f9-ae38-eb2563e019bc,USD,Select Memory Based on Memory Config - Performance Optimized with Sparing,true,"#N/A",All,"#N/A",Edit,2.0,"#N/A","#N/A","#N/A","#N/A","#N/A",Product,Selection
+67a5af9a-b6de-49f2-933d-0ee01ec2814a,USD,U's Greater than Allowed (8),true,"#N/A",All,Total U's greater than selected Base U amount. 8,Always,1.0,"#N/A","#N/A","#N/A","#N/A","#N/A",Product,Validation
+68c5e93a-de9b-4a1b-a996-29989c7549f4,USD,Show VirusScan Scan Enterprise for Linux,true,"#N/A",All,"#N/A",Always,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Product,Selection
+7070db20-0d6a-4080-b25c-c234f34258ed,USD,Windows Server deSelect Soft Maint,true,"#N/A",All,"#N/A",Always,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Product,Selection
+72b5573d-9696-4648-9beb-67d10920f9d2,USD,Show Threat Prods,true,"#N/A",All,"#N/A",Always,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Product,Selection
+7967d986-7120-4996-9509-b8536b9c6bd5,USD,Hide Threat Prods,true,"#N/A",All,"#N/A",Always,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Product,Selection
+7eb524f3-1cc8-4dc3-8617-6b186feab4bd,USD,Hide L5-20 Cables,true,"#N/A",All,"#N/A",Always,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Product,Selection
+8253120d-87d2-4b33-be5e-65758a7be42f,USD,Dynamic Network Security Filter,true,"#N/A",All,"#N/A",Always,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Product,Filter
+8ae6ecdf-5bc6-45fa-9b4e-662b183aa10a,USD,Select Memory Based on Memory Config - Memory Mirroring,true,"#N/A",All,"#N/A",Edit,2.0,"#N/A","#N/A","#N/A","#N/A","#N/A",Product,Selection
+8d0b6595-ae18-4cf4-990e-026d88d3c115,USD,Configure Rack Server based on Value Config Type,true,"#N/A",All,"#N/A",Always,1.0,"#N/A","#N/A","#N/A","#N/A","#N/A",Product,Selection
+8e8bf2db-94e6-4b57-b6de-eebf5898a3dc,USD,Hide Storage VirusScan,true,"#N/A",All,"#N/A",Always,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Product,Selection
+9cd8203c-781b-42c6-8619-6afe38f5a61c,USD,U's Less than Allowed (10),true,"#N/A",All,You left some U's empty. Proceed?,Always,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Product,Alert
+9e72cc01-ea8d-4fe1-b1b0-c3a8fb6ea58c,USD,Configure Rack Server based on Performance Config Type,true,"#N/A",All,"#N/A",Always,1.0,"#N/A","#N/A","#N/A","#N/A","#N/A",Product,Selection
+a20e41dd-1556-4133-bdf3-b4396f5b7ac6,USD,Select Memory Based on Memory Config - Performance Optimized,true,"#N/A",All,"#N/A",Edit,2.0,"#N/A","#N/A","#N/A","#N/A","#N/A",Product,Selection
+a37e5d92-fce9-4b6c-a870-2410f03aab12,USD,Hide C19-20 Cables,true,"#N/A",All,"#N/A",Always,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Product,Selection
+a70e7f33-1e7a-4fbd-9037-0c793c8fc5a1,USD,Hide C13-14 Cables,true,"#N/A",All,"#N/A",Always,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Product,Selection
+b3ec024c-7c9c-4cd8-b275-3a83fad9ae52,USD,Software Maint Alert,true,"#N/A",All,Recommendation: Software maintenance benefits customer's installation of software on a Windows Datacenter,Always,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Product,Alert
+c4eafc88-493f-491f-8ff4-2fa37720531e,USD,Show C19-20 Cables,true,"#N/A",All,"#N/A",Always,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Product,Selection
+caed1dcd-519d-456a-b6f1-cc9c009a4360,USD,Hide Mac VirusScan,true,"#N/A",All,"#N/A",Always,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Product,Selection
+ccf2ed78-6a67-4ab6-bee2-9182e4d2f6ce,USD,Recommend Admin Training,true,"#N/A",All,Recommendation:  It is suggested that net new implementations have administrative training.,Always,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Product,Alert
+ce59c13a-b8dc-47e3-aeb4-872134dc054d,USD,DLP Monitor Not Required w/ Threat Assessment,true,"#N/A",All,DLP Prevent Optional: Threat Intelligence Includes Baseline Prevent Functionality.,Always,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Product,Alert
+dc1c3416-b6d3-4ed7-b92f-509cff1868aa,USD,Hide Reporting Products when Reporting License Count Equals 0,true,"#N/A",All,"#N/A",Always,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Product,Selection
+de0a6c43-0bd1-4c91-9a5d-acb932191294,USD,PDU 208V - Fan Recommend,true,(1 OR 2 OR 3) AND 4,Custom,**The 208V fan is recommended for this PDU,Always,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Product,Alert
+e5af692c-513d-470d-8753-41d40428f7a2,USD,U's Greater than Allowed (10),true,"#N/A",All,Total U's greater than selected Base U amount. 10,Always,1.0,"#N/A","#N/A","#N/A","#N/A","#N/A",Product,Validation
+ec2a6f23-38b4-4729-8536-73aa824fabb7,USD,Show C13-14 Cables,true,"#N/A",All,"#N/A",Always,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Product,Selection
+f8332405-af97-4d59-b671-e37607655b6e,USD,Hide Monthly Subscriptions when Account Renewal Model is Asset Based,true,"#N/A",All,"#N/A",Always,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Product,Selection
+f9eab3c8-e3b5-4a83-811c-b18a150b2d69,USD,Add Maintenance,true,"#N/A",All,"#N/A",Always,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Product,Selection

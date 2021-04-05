@@ -1,0 +1,3 @@
+"Guid","CurrencyIsoCode","Name","SBQQ__Default__c","SBQQ__GuidedOnly__c","SBQQ__ProductAutoSelected__c","SBQQ__ProductConfigurationInitializer__c","SBQQ__ProductSearchExecutor__c","SBQQ__SortOrder__c"
+7f12156a-6552-49c5-a046-26427f5ee404,USD,Atomic Guided Selling,true,false,false,"#N/A","#N/A","#N/A"
+963735a1-23f3-4c3e-b040-69bbb6a606ec,USD,Guided Selling,false,false,false,"#N/A","#N/A","#N/A"

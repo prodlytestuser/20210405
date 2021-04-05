@@ -1,0 +1,4 @@
+"Guid","CurrencyIsoCode","Name","SBQQ__ColumnIndex__c","SBQQ__FieldName__c","SBQQ__ImportFormat__c","SBQQ__Key__c"
+808813c3-a17b-4a43-a8ea-5573c9e44ba9,USD,Product Code,2.0,Product Code,371bead4-31a5-4266-8e4a-63daee58cc60,true
+83b4b7a2-91d2-484a-b530-b3b25f51c679,USD,List Price,3.0,List Price,371bead4-31a5-4266-8e4a-63daee58cc60,false
+936da14e-2979-498c-a4cd-70bb7d932a9b,USD,Quantity,1.0,Quantity,371bead4-31a5-4266-8e4a-63daee58cc60,false

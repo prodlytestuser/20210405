@@ -1,0 +1,18 @@
+"Guid","CurrencyIsoCode","Name","SBQQ__Active__c","SBQQ__MasterProcessInput__c","SBQQ__Operator__c","SBQQ__ProcessInput__c","SBQQ__Value__c"
+08d32310-99ec-4f29-9cb3-e2f25f03fb5a,USD,Risk Assessment chosen for environment choice,true,e125e8cd-f7a7-4256-b3ee-df8110fc5105,equals,02cf713a-9c9c-4f13-80aa-8c95c6bf0f64,Risk Assessment
+0dd7b601-9305-4ac3-ab3c-524e07ba4e3d,USD,Risk Assessment equals Penetration Testing for Level,true,8275de25-8fa9-4375-8ea5-630329195145,equals,dbc0bcc2-6843-49b2-bbde-585a28f19b57,Penetration Testing
+1798c5d3-64c9-4d29-98ca-ce15c1235245,USD,Risk assessment chosen for audit choice,true,e125e8cd-f7a7-4256-b3ee-df8110fc5105,equals,92259a4a-c4df-4ba2-897d-b1fef2f3d26d,Risk Assessment
+18e67d14-947f-4626-9b02-37635b4b196b,USD,End to End for Yes or No,true,e125e8cd-f7a7-4256-b3ee-df8110fc5105,equals,0e1c2cf1-69a9-4ab1-8044-82984de04d3e,End to End Solution
+2cca765f-7bed-4e84-a88d-dc7577077a5a,USD,Risk Assessment for Vulnerability/data centers 2,true,8275de25-8fa9-4375-8ea5-630329195145,equals,6a54c1f0-a28f-4de3-bc12-c59cf54af3f6,Vulnerability Assessment
+313184a7-123d-4871-82b2-c5a1ddc566be,USD,Does not equal Consolidate IT assets,true,e125e8cd-f7a7-4256-b3ee-df8110fc5105,not equals,e29f80e6-ba58-428b-843c-973618ae6ea3,Consolidate IT assets
+34ff5af4-8b80-4285-b39c-06f527dfe177,USD,Pen Test for Num of Data Centers,true,8275de25-8fa9-4375-8ea5-630329195145,equals,386e73f3-5005-4517-ad1a-c56ec8d7b669,Penetration Testing
+4db50fce-546b-4e22-b4f3-1685e6aa6559,USD,Risk Assessment Options,true,e125e8cd-f7a7-4256-b3ee-df8110fc5105,equals,8275de25-8fa9-4375-8ea5-630329195145,Risk Assessment
+62c948ad-4034-4815-90d7-a25cd46c2d1d,USD,Pen Test for Num of Data Centers,true,e125e8cd-f7a7-4256-b3ee-df8110fc5105,equals,386e73f3-5005-4517-ad1a-c56ec8d7b669,Risk Assessment
+7e7aece7-ef11-40f3-8abb-dd5fb94f132e,USD,Risk Assessment for Vulnerability/data centers,true,e125e8cd-f7a7-4256-b3ee-df8110fc5105,equals,6a54c1f0-a28f-4de3-bc12-c59cf54af3f6,Risk Assessment
+951eb9a5-6a3f-4b5d-987a-7217e054e5bb,USD,Service Type = Consolidate IT assets,true,e125e8cd-f7a7-4256-b3ee-df8110fc5105,equals,5a924da1-7c8f-4827-b96c-3946f5265e0c,Consolidate IT assets
+a4a32fe7-6f61-42c3-950c-c5d253aa073c,USD,End to End for commercial Segment,true,e125e8cd-f7a7-4256-b3ee-df8110fc5105,equals,a8df7b8f-1023-42a0-842e-436eabeeb27c,End to End Solution
+a53d6dc8-b997-487f-9175-085e548a5df1,USD,End to End for Implementation Options,true,e125e8cd-f7a7-4256-b3ee-df8110fc5105,equals,71eab359-c2b4-4154-b16b-ec3b6d6a8dce,End to End Solution
+b4714c7c-c4e9-460b-9e42-b1ed9024bd6c,USD,Risk Assessment equals Cybersecurity,true,8275de25-8fa9-4375-8ea5-630329195145,equals,92259a4a-c4df-4ba2-897d-b1fef2f3d26d,Cybersecurity Audits
+bca5d489-fcbc-4ad4-88a7-92e98f36092b,USD,Vulnerability for environment testing,true,8275de25-8fa9-4375-8ea5-630329195145,equals,02cf713a-9c9c-4f13-80aa-8c95c6bf0f64,Vulnerability Assessment
+d9d6aeb1-c369-4fd7-b42b-d460f349fd44,USD,Type of Service = Risk Assessment,true,e125e8cd-f7a7-4256-b3ee-df8110fc5105,equals,dbc0bcc2-6843-49b2-bbde-585a28f19b57,Risk Assessment
+e96a2b7d-9a12-4100-9dc7-3fd535fece9e,USD,Service Type = Consolidate IT assets,true,e125e8cd-f7a7-4256-b3ee-df8110fc5105,equals,c047f834-b2c1-408a-9cab-7a74498da371,Consolidate IT assets
