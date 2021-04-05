@@ -35,7 +35,6 @@ caed1dcd-519d-456a-b6f1-cc9c009a4360,USD,Hide Mac VirusScan,true,"#N/A",All,"#N/
 ccf2ed78-6a67-4ab6-bee2-9182e4d2f6ce,USD,Recommend Admin Training,true,"#N/A",All,Recommendation:  It is suggested that net new implementations have administrative training.,Always,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Product,Alert
 ce59c13a-b8dc-47e3-aeb4-872134dc054d,USD,DLP Monitor Not Required w/ Threat Assessment,true,"#N/A",All,DLP Prevent Optional: Threat Intelligence Includes Baseline Prevent Functionality.,Always,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Product,Alert
 dc1c3416-b6d3-4ed7-b92f-509cff1868aa,USD,Hide Reporting Products when Reporting License Count Equals 0,true,"#N/A",All,"#N/A",Always,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Product,Selection
-de0a6c43-0bd1-4c91-9a5d-acb932191294,USD,PDU 208V - Fan Recommend,true,(1 OR 2 OR 3) AND 4,Custom,**The 208V fan is recommended for this PDU,Always,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Product,Alert
 e5af692c-513d-470d-8753-41d40428f7a2,USD,U's Greater than Allowed (10),true,"#N/A",All,Total U's greater than selected Base U amount. 10,Always,1.0,"#N/A","#N/A","#N/A","#N/A","#N/A",Product,Validation
 ec2a6f23-38b4-4729-8536-73aa824fabb7,USD,Show C13-14 Cables,true,"#N/A",All,"#N/A",Always,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Product,Selection
 f8332405-af97-4d59-b671-e37607655b6e,USD,Hide Monthly Subscriptions when Account Renewal Model is Asset Based,true,"#N/A",All,"#N/A",Always,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Product,Selection

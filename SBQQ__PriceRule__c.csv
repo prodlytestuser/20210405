@@ -4,13 +4,12 @@
 4c85feab-25b8-4ce2-b7f7-1dfd9ce285ea,USD,Billing Frequency Approval,true,"#N/A",All,"#N/A",On Initialization;On Calculate,20.0,"#N/A","#N/A",Calculator
 60225555-c496-4a72-9494-1364d4b6b781,USD,Set True Discretionary Discount %,false,"#N/A",All,"#N/A",After Calculate,98.0,"#N/A","#N/A",Calculator
 6dbb12de-e10e-40e0-b453-7526aaa78344,USD,Config - Set Device Count,false,"#N/A",All,Edit,"#N/A",99.0,"#N/A","#N/A",Configurator
-75d6ac26-a2d2-430f-a94a-f0084ba7fbf6,USD,Hologic Price Rule,false,"#N/A",All,Edit,On Calculate,50.0,SBQQ__LookupData__c,"#N/A",Calculator
+75d6ac26-a2d2-430f-a94a-f0084ba7fbf6,USD,Hologic Price Rule2,false,"#N/A",All,Edit,On Calculate,50.0,SBQQ__LookupData__c,"#N/A",Calculator
 766ed5fd-4977-4caa-b952-292fe6d10f1c,USD,Lookup Approval Level 1 [Discount],true,"#N/A",All,"#N/A",On Initialization,50.0,Approval_Threshold__c,"#N/A",Calculator
-89f9bfe2-5a30-414e-881b-01ad36d49d50,USD,Set VirusScan Device Count,true,111 AND (222 OR 333 OR 444),Custom,Save,"#N/A",1.0,"#N/A","#N/A",Configurator
+82644438-0214-474d-a9a3-050c7ccf3c52,USD,April Price Rule,false,"#N/A",All,"#N/A",On Calculate,"#N/A","#N/A","#N/A",Configurator
 92ab299e-21a8-4094-b198-70ea27f809a3,USD,Set Quantity for VirusScan Mac,false,"#N/A",All,Edit,Before Calculate,"#N/A","#N/A","#N/A",Configurator
 a0551583-0c07-4cce-8729-ea4eca587f5c,USD,Lookup Approval Level 3 [Discount],true,"#N/A",All,"#N/A",On Initialization,53.0,Approval_Threshold__c,"#N/A",Calculator
 b052e968-9860-4618-9ab6-7784377c0534,USD,Lookup Approval Level [Discount],true,"#N/A",All,"#N/A",On Initialization;Before Calculate;On Calculate;After Calculate,99.0,Approval_Threshold__c,"#N/A",Calculator
 bc21655d-2dff-4e8b-929a-38f9e135b95d,USD,Calculate Tax at Order/Invoice,true,"#N/A",All,"#N/A",Before Calculate,"#N/A","#N/A","#N/A",Calculator
 cdf32fdf-9aa9-4e19-9475-70ed1ed33429,USD,Set Professional Services Role Rates,true,"#N/A",All,"#N/A",On Calculate,"#N/A",Professional_Services_Rate__c,"#N/A",Calculator
 cfeea5b8-9bb5-4426-8b72-e9158fcf415c,USD,Auto Renewal Uplift of 3%,true,"#N/A",All,"#N/A",Before Calculate,"#N/A","#N/A","#N/A",Calculator
-f836d4dc-68b7-4afc-a729-3da88a4cd476,USD,Set VirusScan Device Count (DEP),false,111 AND (222 OR 333 OR 444),Custom,"#N/A",On Initialization,2.0,"#N/A","#N/A",Calculator
